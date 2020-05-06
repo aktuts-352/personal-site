@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  line-height: 2;
+
+}
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.2rem;
+  color: #66BFBF;
+  line-height: 2;
+
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: bold;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+hr {
+  width: 5%;
+  border-style: dotted;
+
+}
+.nav-bar {
+  height: 70px;
+  background-color: #323232;
+}
+.top-container {
+  background-color: #d4ebd0;
+  /* height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  padding: 20px; */
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px
+  bottom: 300px;
+}
+.profile-pic {
+  width: 30%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.profile{
+  width: 40%;
+  margin: 100px auto 100px auto;
+
+}
+.computer-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chillie-image {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.bottom-container {
+  height: 150px;
+  background-color: #43d8c9;
+
+}
+.footer-link {
+  text-decoration: none;
+  padding: 20px;
+  position: relative;
+  top: 50px;
+  color: #11999E;
+}
+.footer-link:hover {
+  color: white;
+}
+.footer-para {
+  position: relative;
+  top: 70px;
+  color: white;
+}
+.contact-me {
+  width: 40%;
+  margin: 100px auto 100px auto;
+}
+.btn {
+  text-decoration: none;
+  background-color: #40bad5;
+  color: white;
+  border-radius: 10px;
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+   font-family: sans-serif;
+}
+.btn:hover {
+  background-color: #16817a;
+}
